@@ -1,5 +1,5 @@
 # LoLSSTracker
-> This software will not work unless you have the correct credentials. You may use this repository and add your own credientials via AWS, however this is a personal project with intended use for only a few people.
+> This software will not work unless you have the correct credentials file. You may use this repository and add your own credientials via AWS, however this is a personal project with intended use for only a few people.
 
 This is a simple non-overlay tool built in C# designed to pull summoner spell data from the API and make it easier to track when a summoner spell was used.
 
